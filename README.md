@@ -5,10 +5,10 @@ Tento repozitár obsahuje školský projekt zameraný na návrh a implementáciu
 Projekt bol vytvorený v rámci univerzitného zadania na FIT VUT a slúži výlučne na vzdelávacie účely.
 
 ## Obsah projektu
-- **login.b** – program v cieľovom jazyku procesora
-- **login.png** – vizuálna reprezentácia / schéma riešenia
+- **login.b** – program v jazyku BrainF*ck vypisujúci login
 - **cpu.vhd** – implementácia procesora vo VHDL
-- podpora jednoduchých a vnorených slučiek
+- **log.txt** – výstup z automatických testov
+- **login.png** – screenshot zo simulácie vykonávania programu
 
 ## Hodnotenie
 - **Získané body:** **23 / 23**
